@@ -1,0 +1,7 @@
+# One track per line: a URL, or "Artist - Title" to search for it.
+# Lines starting with # are ignored. Already-downloaded tracks are skipped.
+#
+# Examples:
+# https://www.youtube.com/watch?v=XXXXXXXXXXX
+# https://soundcloud.com/artist/track-name
+# Artist Name - Track Title (Extended Mix)
